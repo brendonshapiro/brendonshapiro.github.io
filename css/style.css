@@ -7,6 +7,49 @@ body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+#vocal-coaching {
+  background-image: url("/img/icons/vocal-coaching.svg");
+  background-repeat: no-repeat;
+  border-width: 0; 
+  height: 100px;
+  width: 100px;
+}
+#recital {
+  background-image: url("/img/icons/recital.svg");
+  background-repeat: no-repeat;
+  border-width: 0; 
+  height: 100px;
+  width: 100px;
+}
+#audio-video-recording {
+  background-image: url("/img/icons/audio-video-recording.svg");
+  background-repeat: no-repeat;
+  border-width: 0; 
+  height: 100px;
+  width: 100px;
+}
+#audition-competition {
+  background-image: url("/img/icons/audition-competition.svg");
+  background-repeat: no-repeat;
+  border-width: 0; 
+  height: 100px;
+  width: 100px;
+}
+#voice-lesson-accompaniment {
+  background-image: url("/img/icons/voice-lesson-accompaniment.svg");
+  background-repeat: no-repeat;
+  border-width: 0; 
+  height: 100px;
+  width: 100px;
+}
+#miscellaneous {
+  background-image: url("/img/icons/miscellaneous.svg");
+  background-repeat: no-repeat;
+  border-width: 0; 
+  height: 100px;
+  width: 100px;
+}
 .text-muted {
   color: #777777;
 }
