@@ -14,6 +14,7 @@ body {
   border-width: 0; 
   height: 100px;
   width: 100px;
+  margin: auto;
 }
 #recital {
   background-image: url("/img/icons/recital.svg");
@@ -21,6 +22,7 @@ body {
   border-width: 0; 
   height: 100px;
   width: 100px;
+  margin: auto;
 }
 #audio-video-recording {
   background-image: url("/img/icons/audio-video-recording.svg");
@@ -28,6 +30,7 @@ body {
   border-width: 0; 
   height: 100px;
   width: 100px;
+  margin: auto;
 }
 #audition-competition {
   background-image: url("/img/icons/audition-competition.svg");
@@ -35,6 +38,7 @@ body {
   border-width: 0; 
   height: 100px;
   width: 100px;
+  margin: auto;
 }
 #voice-lesson-accompaniment {
   background-image: url("/img/icons/voice-lesson-accompaniment.svg");
@@ -42,6 +46,7 @@ body {
   border-width: 0; 
   height: 100px;
   width: 100px;
+  margin: auto;
 }
 #miscellaneous {
   background-image: url("/img/icons/miscellaneous.svg");
@@ -49,6 +54,7 @@ body {
   border-width: 0; 
   height: 100px;
   width: 100px;
+  margin: auto;
 }
 .text-muted {
   color: #777777;
