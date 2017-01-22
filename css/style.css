@@ -8,6 +8,11 @@ body {
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.download{
+    width: 50%
+    margin: 0 auto;
+}
+
 .card-block {
     border: 1px lightgrey solid;
     border-radius: 5px;
