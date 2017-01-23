@@ -185,7 +185,6 @@ fieldset[disabled] .btn-primary.active {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  border-radius: 10px;
   font-size: 18px;
   padding: 20px 40px;
 }
@@ -294,7 +293,7 @@ fieldset[disabled] .btn-xl.active {
     transition: all 0.3s;
   }
   .navbar-custom .navbar-nav > .active > a {
-    border-radius: 5px;
+    border-radius: 0px;
   }
 }
 @media (min-width: 768px) {
