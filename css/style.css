@@ -338,8 +338,8 @@ header .intro-text .intro-heading {
 }
 @media (min-width: 768px) {
   header .intro-text {
-    padding-top: 300px;
-    padding-bottom: 200px;
+    padding-top: 200px;
+    padding-bottom: 100px;
   }
   header .intro-text .intro-lead-in {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -620,7 +620,7 @@ section h3.section-subheading {
 }
 .team-member img {
   margin: 0 auto;
-  border: 7px solid white;
+  /* border: 7px solid #00dde5; */
 }
 .team-member h4 {
   margin-top: 25px;
