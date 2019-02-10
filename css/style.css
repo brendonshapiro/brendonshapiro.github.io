@@ -36,19 +36,20 @@ body {
 }
 
 .carousel {
-  margin-top: 45px !important;
+  margin-top: 20px !important;
   margin: 0 auto;
   max-width: 80% !important;
 }
 
 .carousel-inner > .item > img {
-  height: 400px;
+  height: 500px;
   margin: 0 auto;
 }
 
 .carousel-img {
   text-align: center !important;
-  max-height: 400px !important;
+  max-height: 500px !important;
+  object-fit: contain !important;
 }
 
 .videoWrapper {
